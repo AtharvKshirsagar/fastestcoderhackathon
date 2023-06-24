@@ -1,4 +1,5 @@
 # fastestcoderhackathon
+You can See how copilot screenshot in copilotusage.png
 
 Here's how GitHub Copilot can help with this specific code:
 
